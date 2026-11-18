@@ -1,0 +1,42 @@
+{
+  "archive": "FHCM-PCH-Review72-beta1-california.zip",
+  "bytes": 11241111912,
+  "parts": [
+    {
+      "bytes": 1610612736,
+      "name": "FHCM-PCH-Review72-beta1-california.zip.001",
+      "sha256": "24fa225c86628f98fb8411e9b9f2a2bf2f375e05dd48223ec3d7d787fecbfb9c"
+    },
+    {
+      "bytes": 1610612736,
+      "name": "FHCM-PCH-Review72-beta1-california.zip.002",
+      "sha256": "39dc6fbf1901465cd1bfd3018e1bfd56dc750e85109e57bb7a4fac2b9f1c62a0"
+    },
+    {
+      "bytes": 1610612736,
+      "name": "FHCM-PCH-Review72-beta1-california.zip.003",
+      "sha256": "00803a4276df4b1711606020ed587f33a291d150450503bcb3bd487ca9feaf1c"
+    },
+    {
+      "bytes": 1610612736,
+      "name": "FHCM-PCH-Review72-beta1-california.zip.004",
+      "sha256": "e1cb7a8b56f1422737d263a420d578a6b7ffc75c5c0f478460c57763274629be"
+    },
+    {
+      "bytes": 1610612736,
+      "name": "FHCM-PCH-Review72-beta1-california.zip.005",
+      "sha256": "31d812fc2819af172e60a26ab92d164fa4d6f1efa4950349fdf55394cb3cb9e5"
+    },
+    {
+      "bytes": 1610612736,
+      "name": "FHCM-PCH-Review72-beta1-california.zip.006",
+      "sha256": "639c2a141832d0b23943117bcf1f58fa6abc48e9a57000374a28bf44e6d4febf"
+    },
+    {
+      "bytes": 1577435496,
+      "name": "FHCM-PCH-Review72-beta1-california.zip.007",
+      "sha256": "9973be8903bae9b5bbccb16457dbe2eb86a32cff6cfda8f3848a89f37ff5df64"
+    }
+  ],
+  "sha256": "0efbbd9395e7aa7398dc741e0af6ec1d843ae352b297663b14093a8d26602a7f"
+}
